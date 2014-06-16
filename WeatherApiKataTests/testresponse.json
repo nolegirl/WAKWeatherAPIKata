@@ -1,0 +1,93 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Detroit, MI",
+		"city":"Detroit",
+		"state":"MI",
+		"state_name":"Michigan",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"48201",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"42.34453201",
+		"longitude":"-83.05988312",
+		"elevation":"189.00000000"
+		},
+		"observation_location": {
+		"full":"Olde Walkerville, Windsor, ONTARIO",
+		"city":"Olde Walkerville, Windsor",
+		"state":"ONTARIO",
+		"country":"Canada",
+		"country_iso3166":"US",
+		"latitude":"42.317883",
+		"longitude":"-83.014748",
+		"elevation":"597 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"IONTARIO392",
+		"observation_time":"Last Updated on June 4, 4:15 PM EDT",
+		"observation_time_rfc822":"Wed, 04 Jun 2014 16:15:38 -0400",
+		"observation_epoch":"1401912938",
+		"local_time_rfc822":"Wed, 04 Jun 2014 16:15:38 -0400",
+		"local_epoch":"1401912938",
+		"local_tz_short":"EDT",
+		"local_tz_long":"America/New_York",
+		"local_tz_offset":"-0400",
+		"weather":"Light Rain",
+		"temperature_string":"64.4 F (18.0 C)",
+		"temp_f":64.4,
+		"temp_c":18.0,
+		"relative_humidity":"90%",
+		"wind_string":"From the NNE at 1.0 MPH Gusting to 1.0 MPH",
+		"wind_dir":"NNE",
+		"wind_degrees":27,
+		"wind_mph":1.0,
+		"wind_gust_mph":"1.0",
+		"wind_kph":1.6,
+		"wind_gust_kph":"1.6",
+		"pressure_mb":"1011",
+		"pressure_in":"29.85",
+		"pressure_trend":"-",
+		"dewpoint_string":"61 F (16 C)",
+		"dewpoint_f":61,
+		"dewpoint_c":16,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"64.4 F (18.0 C)",
+		"feelslike_f":"64.4",
+		"feelslike_c":"18.0",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"--",
+		"UV":"3","precip_1hr_string":"0.01 in ( 0 mm)",
+		"precip_1hr_in":"0.01",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.18 in (5 mm)",
+		"precip_today_in":"0.18",
+		"precip_today_metric":"5",
+		"icon":"rain",
+		"icon_url":"http://icons.wxug.com/i/c/k/rain.gif",
+		"forecast_url":"http://www.wunderground.com/US/MI/Detroit.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO392",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=42.317883,-83.014748"
+	}
+}
